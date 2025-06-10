@@ -40,8 +40,8 @@ export const siteContent = {
     copyright: "Copyright Dijital Pazarlama Ajansı 2025",
   },
   images: {
-    "logo-img": "./images/logo.webp",
-    "cta-img": "./images/cta-img.webp",
-    "accent-img": "./images/graphs.webp",
+    "logo-img": "images/logo.webp",
+    "cta-img": "images/cta-img.webp",
+    "accent-img": "images/graphs.webp",
   },
 };
